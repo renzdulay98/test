@@ -1,0 +1,1 @@
+<built-in method read of _io.TextIOWrapper object at 0x0000022D14E8FC60>
